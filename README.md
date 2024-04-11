@@ -1,4 +1,9 @@
+<div align="center">
+
 # Keebio Iris Case
+
+<img alt="Keebio Iris Case Logo" height="280" src="/assets/keebio-iris-case-logo.jpg" />
+</div>
 
 This repository serves as a compilation of instructions for the Keebio Iris Phoenix Edition (PE) keyboard, encompassing revisions 5 to 8. It is meant to gather all the information needed to build and configure your Keebio Iris keyboard all in one place. The original authors of all the files and documents used will be linked to in the [Acknowledgements](#Acknowledgements).
 
