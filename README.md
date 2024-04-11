@@ -22,10 +22,11 @@ This repository serves as a compilation of instructions for the Keebio Iris Phoe
 6. 9mm Standoffs + M2 6mm Stainless Steel Screws: [1x 25 pack]
 
 ## Printed Parts
-1. Bottom plate [2x plates]
-2. Middle layer [2x middle layers]
-3. Tenting kit []
-4. Top plate [2x top plates] **Optional and not recommended**
+1. [Bottom plate](keebio-iris-pe-bottom-plate-3mm.stl) [2x plates]
+2. [Middle layer](keebio-iris-pe-middle-layer-3mm.stl) [2x middle layers]
+3. [Tenting kit]() []
+4. [Top plate]() [2x top plates] **Optional and not recommended**
+5. [SKUF feet alignment guide](keebio-iris-pe-skuf-alignment-guide.stl) **Optional to stick the SKUF rubber feet nicely under the keyboard**
 
 # Printing Instructions
 
