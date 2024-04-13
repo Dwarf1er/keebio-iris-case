@@ -80,9 +80,18 @@ Notes: 100% infill was used to make sure that the top plate will be as strong as
 
 # Assembly Instructions
 
+
+
 # Configuration
+
+To configure your keyboard you have 2 options: [VIA Configurator](https://www.caniusevia.com/) **recommended method** or the [QMK Configurator](https://config.qmk.fm). The VIA Configurator is the recommended method because it's much easier to use and doesn't require you to reflash your keyboard to apply new keymaps. By default, the left thumb key is mapped to `enter` and the right thumb key is mapped to `space`, it's recommended to swap them around if you play video games for obvious reasons.
+
+[VIA Configurator documentation](https://docs.keeb.io/via)
+[QMK Configurator documentation](https://docs.keeb.io/remapping-keyboard#qmk-configurator)
+[Keyboard flashing documentation](https://docs.keeb.io/flashing-firmware)
 
 # Acknowledgements
 
 - [Original 3D files for the keyboard case](https://github.com/keebio/iris-case) - Courtesy of [Keebio](https://keeb.io)
+- [Keyboard documentation](https://docs.keeb.io) - Courtesy of [Keebio](https://keeb.io)
 - [Original 3D files for the tenting kit](https://www.thingiverse.com/thing:5259983) - Courtesy of [Dave Lehman](https://www.thingiverse.com/davelehman)
