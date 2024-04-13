@@ -1,17 +1,14 @@
 <div align="center">
-
-# Keebio Iris Case
-
-<img alt="Keebio Iris Case Logo" height="280" src="/assets/keebio-iris-case-logo.png" />
+  <img alt="Keebio Iris Case Logo" height="280" src="/assets/keebio-iris-case-logo.png" />
 </div>
 
 # Description
 
-This repository serves as a compilation of instructions for the Keebio Iris Phoenix Edition (PE) keyboard, encompassing revisions 5 to 8. It is meant to gather all the information needed to build and configure your Keebio Iris keyboard all in one place. The original authors of all the files and documents used will be linked to in the [Acknowledgements](#Acknowledgements).
+This repository serves as a compilation of instructions for the Keebio Iris Phoenix Edition (PE) keyboard, encompassing revisions 5 to 8. It is meant to gather all the information needed to build and configure your Keebio Iris keyboard all in one place. The original authors of all the files and documents used will be linked to in the [Acknowledgements](#-Acknowledgements).
 
 # Parts List
 
-**An important note regarding the top plate:** since the top plate is responsible for holding the switches in place it is not advisable to 3D print it since the final piece could lack in rigidity and cause for an unpleasant typing experience but the STL file will also be linked.
+**An important note regarding the top plate:** since the top plate is responsible for holding the switches in place it is not advisable to 3D print it since the final piece could lack in rigidity and provide an unpleasant typing experience but the STL file will also be linked.
 
 ## Parts Bought from Keebio
 1. Iris Rev. 8 Hotswap PCBs: [1x kit]
@@ -19,14 +16,19 @@ This repository serves as a compilation of instructions for the Keebio Iris Phoe
 3. Coiled USB C to USB C Cable: [1x cable]
 4. SKUF Rubber Feet: [1x 12 pack]
 5. Silicone Hotswap PCB Bumpers: [1x 12 pack]
-6. 9mm Standoffs + M2 6mm Stainless Steel Screws: [1x 25 pack]
+6. 9mm Standoffs + M2 6mm Stainless Steel Screws: [1x 25 pack] **included with the top plate kit if you buy it**
+
+## Parts Bought from Other Sources
+1. Any cherry mx 5 pin style switches [56x switches]
+2. Any cherry mx compatible keycaps [56x keycaps]
 
 ## Printed Parts
 1. [Bottom plate](keebio-iris-pe-bottom-plate-3mm.stl) [2x plates]
 2. [Middle layer](keebio-iris-pe-middle-layer-3mm.stl) [2x middle layers]
-3. [Tenting kit]() []
-4. [Top plate]() [2x top plates] **Optional and not recommended**
-5. [SKUF feet alignment guide](keebio-iris-pe-skuf-alignment-guide.stl) **Optional to stick the SKUF rubber feet nicely under the keyboard**
+3. [Tenting leg](keebio-iris-pe-ergodox-tenting-leg.stl) [4x legs] **Optional**
+4. [Tenting leg adapter](keebio-iris-pe-ergodox-tenting-leg-adapter.stl) [4x adapters] **Optional**
+5. [Top plate]() [2x top plates] **Optional and not recommended**
+6. [SKUF feet alignment guide](keebio-iris-pe-skuf-alignment-guide.stl) **Optional to stick the SKUF rubber feet nicely under the keyboard**
 
 # Printing Instructions
 
@@ -34,9 +36,47 @@ The printing instructions are based on a [Creality Ender3 Pro](https://www.creal
 
 ## Bottom Plate
 
+Print the [bottom plate](keebio-iris-pe-bottom-plate-3mm.stl) **twice**. Print the bottom plate once in the original orientation (left side) and then print it a second time by using the mirror function of your slicing software to print it again (right side).
+
+Material: PLA
+Layer Height: 0.2mm
+Infill: 20%
+Supports: None
+
+Notes: 20% infill was used to save material and time but 100% could be adviseable since this is the frame of the keyboard and strength is important.
+
 ## Middle Layer
 
+Print the [middle layer](keebio-iris-pe-middle-layer-3mm.stl) **twice**. Print the middle layer once in the original orientation (left side) and then print it a second time by using the mirror function of your slicing software to print it again (right side).
+
+Material: PLA
+Layer Height: 0.2mm
+Infill: 20%
+Supports: 15% in zig zag pattern
+
+Notes: Supports are required due to 90 degree overhangs. at 15% the cleanup wasn't hard at all but lower % of supports would be just fine too. As for the infill, again, 20% was used to save material and time but different patterns and % can achieve different effects if using transparent PLA.
+
 ## Tenting Kit
+
+You can add all [4 legs](keebio-iris-pe-ergodox-tenting-leg.stl) and [4 adapters](keebio-iris-pe-ergodox-tenting-legs-adapter.stl) to be printed simultaneously. There is the possibilty
+
+Material: PLA
+Layer Height: 0.2mm
+Infill: 100%
+Supports: None
+
+Notes: 100% infill was used to make sure that the legs and adapters were strong as they will be holding the keyboard up and taking impacts from typing.
+
+## Top plate
+
+If you do decide to print the [top plate](keebio-iris-pe-top-plate-3mm.stil), make sure to **use 100% infill** because otherwise the plate will lack rigidity and lead to an unpleasant typing experience.
+
+Material: PLA
+Layer Height: 0.2mm
+Infill: 100%
+Supports: None
+
+Notes: 100% infill was used to make sure that the top plate will be as strong as possible.
 
 # Assembly Instructions
 
