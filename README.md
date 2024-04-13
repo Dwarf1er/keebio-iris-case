@@ -90,9 +90,9 @@ To configure your keyboard you have 2 options:
 
 The VIA Configurator is the recommended method because it's much easier to use and doesn't require you to reflash your keyboard to apply new keymaps. By default, the left thumb key is mapped to `enter` and the right thumb key is mapped to `space`, it's recommended to swap them around if you play video games for obvious reasons.
 
-[VIA Configurator documentation](https://docs.keeb.io/via)
-[QMK Configurator documentation](https://docs.keeb.io/remapping-keyboard#qmk-configurator)
-[Keyboard flashing documentation](https://docs.keeb.io/flashing-firmware)
+- [VIA Configurator documentation](https://docs.keeb.io/via)
+- [QMK Configurator documentation](https://docs.keeb.io/remapping-keyboard#qmk-configurator)
+- [Keyboard flashing documentation](https://docs.keeb.io/flashing-firmware)
 
 # Acknowledgements
 
