@@ -16,19 +16,19 @@ This repository serves as a compilation of instructions for the Keebio Iris Phoe
 3. Coiled USB C to USB C Cable [1x cable]
 4. SKUF Rubber Feet [1x 12 pack]
 5. Silicone Hotswap PCB Bumpers [1x 12 pack]
-6. 9mm Standoffs + M2 6mm Stainless Steel Screws [1x 25 pack] **included with the top plate kit if you buy it**
+6. 9mm Standoffs + M2 6mm Stainless Steel Screws [1x 25 pack] **included with the top plate kit if bought from keebio**
 
 ## Parts Bought from Other Sources
 1. Any cherry mx 5 pin style switches [56x switches]
 2. Any cherry mx compatible keycaps [56x keycaps]
 
 ## Printed Parts
-1. [Bottom plate](keebio-iris-pe-bottom-plate-3mm.stl) [2x plates]
+1. [Bottom plate](keebio-iris-pe-bottom-plate-3mm.stl) [2x bottom plates]
 2. [Middle layer](keebio-iris-pe-middle-layer-3mm.stl) [2x middle layers]
 3. [Tenting leg](keebio-iris-pe-ergodox-tenting-leg.stl) [4x legs] **Optional**
 4. [Tenting leg adapter](keebio-iris-pe-ergodox-tenting-leg-adapter.stl) [4x adapters] **Optional**
 5. [Top plate]() [2x top plates] **Optional and not recommended**
-6. [SKUF feet alignment guide](keebio-iris-pe-skuf-alignment-guide.stl) **Optional to stick the SKUF rubber feet nicely under the keyboard**
+6. [SKUF feet alignment guide](keebio-iris-pe-skuf-alignment-guide.stl) [1x skuf guide] **Optional to stick the SKUF rubber feet nicely under the keyboard**
 
 # Printing Instructions
 
