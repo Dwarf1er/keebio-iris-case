@@ -58,7 +58,7 @@ Notes: Supports are required due to 90 degree overhangs. at 15% the cleanup wasn
 
 ## Tenting Kit
 
-You can add all [4 legs](keebio-iris-pe-ergodox-tenting-leg.stl) and [4 adapters](keebio-iris-pe-ergodox-tenting-legs-adapter.stl) to be printed simultaneously. There is the possibilty
+You can add all [4 legs](keebio-iris-pe-ergodox-tenting-leg.stl) and [4 adapters](keebio-iris-pe-ergodox-tenting-leg-adapter.stl) to be printed simultaneously. There is the possibilty
 
 Material: PLA
 Layer Height: 0.2mm
@@ -69,7 +69,7 @@ Notes: 100% infill was used to make sure that the legs and adapters were strong 
 
 ## Top plate
 
-If you do decide to print the [top plate](keebio-iris-pe-top-plate-3mm.stil), make sure to **use 100% infill** because otherwise the plate will lack rigidity and lead to an unpleasant typing experience.
+If you do decide to print the [top plate](keebio-iris-pe-top-plate-3mm.stl), make sure to **use 100% infill** because otherwise the plate will lack rigidity and lead to an unpleasant typing experience.
 
 Material: PLA
 Layer Height: 0.2mm
