@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Keebio Iris Case Logo" height="280" src="/assets/keebio-iris-case-logo.png" />
+  <img alt="Keebio Iris Case Logo" src="/assets/keebio-iris-case-logo.png" />
 </div>
 
 # Description
