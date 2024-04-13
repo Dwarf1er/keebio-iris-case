@@ -2,6 +2,27 @@
   <img alt="Keebio Iris Case Logo" src="/assets/keebio-iris-case-logo.png" />
 </div>
 
+# Table of Contents
+- [Description](#description)
+- [Parts List](#parts-list)
+   * [Parts Purchased from Keebio](#parts-purchased-from-keebio)
+   * [Additional Purchases](#additional-purchases)
+   * [Printed Parts](#printed-parts)
+- [Printing Instructions](#printing-instructions)
+   * [Bottom Plate](#bottom-plate)
+   * [Middle Layer](#middle-layer)
+   * [Tenting Kit](#tenting-kit)
+   * [SKUF Alignment Guide](#skuf-alignment-guide)
+   * [Top Plate](#top-plate)
+- [Assembly Instructions](#assembly-instructions)
+   * [Preparing Top Plates](#preparing-top-plates)
+   * [Installing Switches](#installing-switches)
+   * [Assembling the Case](#assembling-the-case)
+   * [Attaching Keycaps](#attaching-keycaps)
+   * [Adding the SKUF Rubber Feet](#adding-the-skuf-rubber-feet)
+- [Configuration](#configuration)
+- [Acknowledgements](#acknowledgements)
+
 # Description
 
 This repository serves as a compilation of instructions for the Keebio Iris Phoenix Edition (PE) keyboard, encompassing revisions 5 to 8. It is meant to gather all the information needed to build and configure your Keebio Iris keyboard all in one place. The original authors of all the files and documents used will be linked to in the [Acknowledgements](#Acknowledgements).
