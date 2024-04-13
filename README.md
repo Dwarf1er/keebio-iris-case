@@ -82,7 +82,40 @@ Notes: 100% infill was used to make sure that the top plate will be as strong as
 
 # Assembly Instructions
 
+The following instructions are for assembling the Iris with Rev. 6-8 PCBs which have hotswap sockets, for older versions of the Iris see this guide from keebio [here](https://docs.keeb.io/iris-rev3-build-guide). For the original Rev. 6-8 build guide from keebio go [here](https://docs.keeb.io/iris-rev6-build-guide)
 
+## Preparing Top Plates
+
+**This step is only needed if you bought acrylic top plates from keebio**
+
+1. Begin by carefully removing the protective film from the acrylic plate to prevent any damage.
+2. Peel off the film diagonally from both sides of all plates in the set.
+3. To compensate for the increased plate thickness, insert a 2mm buffer material between the plate and the PCB. Alternatively, repurpose the extra SKUF feet for this purpose.
+
+## Installing Switches
+
+1. Start by inserting a few switches into the switch plate's corners, ensuring they face downwards.
+2. Align the switch pins with the hotswap sockets and firmly press the socket onto the switch while applying pressure to the top, ensuring a snug fit.
+   > Maintain pressure on the hotswap socket during switch insertion to avoid potential misalignment.
+   > **Note:** Avoid inserting switches with bent pins into the hotswap socket to prevent damage.
+
+## Assembling the Case
+
+1. With all switches securely in place, proceed with case assembly.
+2. Attach screws and standoffs to the switch plate, inserting screws through the top and attaching standoffs from the bottom.
+3. Add 3D printed middle layer and FLAHNS bumpers to the PCB.
+4. Insert an M3 nut into the middle layer from the bottom, followed by adding the leg adapter in the recessed hole with some krazy glue then use an M3 screw through the leg to secure it into the nut.
+5. Insert standoffs into the middle layer.
+6. Secure the bottom plate onto the standoffs using screws.
+7. Once assembled, flip the board over to complete the process.
+
+## Attaching Keycaps
+
+1. Press the keycaps onto the switches' stems'.
+
+## Adding the SKUF Rubber Feet
+
+1. Using the [3D printed alignment guide](keebio-iris-pe-skuf-alignment-guide.stl) stick the SKUF rubber feet under the keyboard.
 
 # Configuration
 
