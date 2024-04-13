@@ -21,8 +21,8 @@ This repository serves as a compilation of instructions for the Keebio Iris Phoe
 ## Parts Bought from Other Sources
 1. Any cherry mx 5 pin style switches [56x switches]
 2. Any cherry mx compatible keycaps [56x keycaps]
-3. M2 x 16 mm screws [4x for the tenting legs]
-4. M2 nuts [4x for the tenting legs]
+3. M3 x 16 mm screws [4x for the tenting legs]
+4. M3 nuts [4x for the tenting legs]
 
 ## Printed Parts
 1. [Bottom plate](keebio-iris-pe-bottom-plate-3mm.stl) [2x bottom plates]
@@ -40,10 +40,10 @@ The printing instructions are based on a [Creality Ender3 Pro](https://www.creal
 
 Print the [bottom plate](keebio-iris-pe-bottom-plate-3mm.stl) **twice**. Print the bottom plate once in the original orientation (left side) and then print it a second time by using the mirror function of your slicing software to print it again (right side).
 
-Material: PLA
-Layer Height: 0.2mm
-Infill: 20%
-Supports: None
+- Material: PLA
+- Layer Height: 0.2mm
+- Infill: 20%
+- Supports: None
 
 Notes: 20% infill was used to save material and time but 100% could be adviseable since this is the frame of the keyboard and strength is important.
 
@@ -51,10 +51,10 @@ Notes: 20% infill was used to save material and time but 100% could be adviseabl
 
 Print the [middle layer](keebio-iris-pe-middle-layer-3mm.stl) **twice**. Print the middle layer once in the original orientation (left side) and then print it a second time by using the mirror function of your slicing software to print it again (right side).
 
-Material: PLA
-Layer Height: 0.2mm
-Infill: 20%
-Supports: 15% in zig zag pattern
+- Material: PLA
+- Layer Height: 0.2mm
+- Infill: 20%
+- Supports: 15% in zig zag pattern
 
 Notes: Supports are required due to 90 degree overhangs. at 15% the cleanup wasn't hard at all but lower % of supports would be just fine too. As for the infill, again, 20% was used to save material and time but different patterns and % can achieve different effects if using transparent PLA.
 
@@ -62,10 +62,10 @@ Notes: Supports are required due to 90 degree overhangs. at 15% the cleanup wasn
 
 You can add all [4 legs](keebio-iris-pe-ergodox-tenting-leg.stl) and [4 adapters](keebio-iris-pe-ergodox-tenting-leg-adapter.stl) to be printed simultaneously. There is the possibilty
 
-Material: PLA
-Layer Height: 0.2mm
-Infill: 100%
-Supports: None
+- Material: PLA
+- Layer Height: 0.16mm
+- Infill: 100%
+- Supports: None
 
 Notes: 100% infill was used to make sure that the legs and adapters were strong as they will be holding the keyboard up and taking impacts from typing.
 
@@ -73,10 +73,10 @@ Notes: 100% infill was used to make sure that the legs and adapters were strong 
 
 If you do decide to print the [top plate](keebio-iris-pe-top-plate-3mm.stl), make sure to **use 100% infill** because otherwise the plate will lack rigidity and lead to an unpleasant typing experience.
 
-Material: PLA
-Layer Height: 0.2mm
-Infill: 100%
-Supports: None
+- Material: PLA
+- Layer Height: 0.2mm
+- Infill: 100%
+- Supports: None
 
 Notes: 100% infill was used to make sure that the top plate will be as strong as possible.
 
