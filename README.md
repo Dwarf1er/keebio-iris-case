@@ -11,12 +11,12 @@ This repository serves as a compilation of instructions for the Keebio Iris Phoe
 **An important note regarding the top plate:** since the top plate is responsible for holding the switches in place it is not advisable to 3D print it since the final piece could lack in rigidity and provide an unpleasant typing experience but the STL file will also be linked.
 
 ## Parts Bought from Keebio
-1. Iris Rev. 8 Hotswap PCBs: [1x kit]
-2. 3mm Thick Top Plate Kit: [1x kit] (Not needed if printing top plate)
-3. Coiled USB C to USB C Cable: [1x cable]
-4. SKUF Rubber Feet: [1x 12 pack]
-5. Silicone Hotswap PCB Bumpers: [1x 12 pack]
-6. 9mm Standoffs + M2 6mm Stainless Steel Screws: [1x 25 pack] **included with the top plate kit if you buy it**
+1. Iris Rev. 8 Hotswap PCBs [1x kit]
+2. 3mm Thick Top Plate Kit [1x kit] (Not needed if printing top plate)
+3. Coiled USB C to USB C Cable [1x cable]
+4. SKUF Rubber Feet [1x 12 pack]
+5. Silicone Hotswap PCB Bumpers [1x 12 pack]
+6. 9mm Standoffs + M2 6mm Stainless Steel Screws [1x 25 pack] **included with the top plate kit if you buy it**
 
 ## Parts Bought from Other Sources
 1. Any cherry mx 5 pin style switches [56x switches]
